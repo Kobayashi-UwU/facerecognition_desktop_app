@@ -1,0 +1,44 @@
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\face regg window forms app.exe.config
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\face regg window forms app.exe.manifest
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\face regg window forms app.application
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\face regg window forms app.exe
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\face regg window forms app.pdb
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\AForge.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\AForge.Video.DirectShow.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\AForge.Video.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\MetroFramework.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\Newtonsoft.Json.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\System.Net.Http.Formatting.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face regg window forms app.csproj.AssemblyReference.cache
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face regg window forms app.csproj.SuggestedBindingRedirects.cache
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face_regg_window_forms_app.CustomButton.resources
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face_regg_window_forms_app.FaceRecognition.resources
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face_regg_window_forms_app.Properties.Resources.resources
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face_regg_window_forms_app.register.resources
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face regg window forms app.csproj.GenerateResource.cache
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face regg window forms app.csproj.CoreCompileInputs.cache
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face regg window forms app.exe.manifest
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face regg window forms app.application
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face regg window forms app.csproj.CopyComplete
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face regg window forms app.exe
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face regg window forms app.pdb
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face_regg_window_forms_app.login.resources
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face_regg_window_forms_app.serverchecking.resources
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\obj\Debug\face_regg_window_forms_app.faceRecognition1.resources
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\Emgu.CV.World.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\ZedGraph.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\OpenTK.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\OpenTK.GLControl.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\MetroFramework.Design.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\Emgu.CV.UI.GL.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\Emgu.CV.UI.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\x64\concrt140.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\x64\cvextern.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\x64\msvcp140.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\x64\opencv_ffmpeg320_64.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\x64\vcruntime140.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\x86\concrt140.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\x86\cvextern.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\x86\msvcp140.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\x86\opencv_ffmpeg320.dll
+D:\project\faceregg desktop app\face regg window forms app\face regg window forms app\bin\Debug\x86\vcruntime140.dll
